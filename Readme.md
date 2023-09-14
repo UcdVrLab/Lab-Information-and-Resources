@@ -26,7 +26,7 @@ For more detailed instructions, please check out [link-to-detailed-guide](#).
 
 If you're new to this repository, here are some pointers to get you started:
 
-- **Resource One**: [Description of the resource and its relevance]
+- **PhD Thesis Template**: This is the template created by Xuanhui Xu for future PhD students' references. Please note that the colorful version will be pretty expensive to print out a hard-bound version. It is recommended to remove the necessary color for the hard-bound version.
 - **Resource Two**: [Description of the resource and its relevance]
 - **Resource Three**: [Description of the resource and its relevance]
 

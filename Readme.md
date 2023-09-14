@@ -16,8 +16,6 @@ This repository aims to [more detailed explanation of what the repository is for
 - **[Equipment Management Trello](https://trello.com/b/hJ6ayoph/equipment-update)**: A Trello board for visualising the equipment status.
 - **template**: [Brief description]
 
-For more detailed instructions, please check out [link-to-detailed-guide](#).
-
 ## Resources
 
 Here are some resources in this repository you might find useful:
